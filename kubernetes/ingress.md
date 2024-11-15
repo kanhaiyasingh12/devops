@@ -246,8 +246,6 @@ spec:
 ```
 
 
-https://github.com/user-attachments/assets/6656f273-f376-4a8f-8bc4-a77d5f51b084
-
 
 
 Manifest for Multi-subdomain Routing
@@ -296,8 +294,3 @@ spec:
 
 > when we use multi-subdomain routing, we need to add A records in our DNS for as many subdomain as we need.
 >
-
-https://github.com/user-attachments/assets/bbcf64e8-aebc-4567-b23a-afb6893f45f9
-
-
-
